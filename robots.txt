@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sanbuenaventurapestcontrolco.com/sitemap.xml
